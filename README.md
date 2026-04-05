@@ -6,3 +6,4 @@
 - Objects composition: [Link](https://github.com/victorrsk/worker-project)
 - OOP Polymorphism: [Link](https://github.com/victorrsk/employee-project)
 - OOP Abstraction: [Link](https://github.com/victorrsk/tax-payers)
+- File handling: [Link](https://github.com/victorrsk/file-handling)
