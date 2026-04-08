@@ -7,3 +7,4 @@
 - OOP Polymorphism: [Link](https://github.com/victorrsk/employee-project)
 - OOP Abstraction: [Link](https://github.com/victorrsk/tax-payers)
 - File handling: [Link](https://github.com/victorrsk/file-handling)
+- Interfaces and dependency injection: [Link](https://github.com/victorrsk/contract-processing)
