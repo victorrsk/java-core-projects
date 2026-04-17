@@ -8,3 +8,4 @@
 - OOP Abstraction: [Link](https://github.com/victorrsk/tax-payers)
 - File handling: [Link](https://github.com/victorrsk/file-handling)
 - Interfaces and dependency injection: [Link](https://github.com/victorrsk/contract-processing)
+- StreamAPI pratice, comparable: [Link](https://github.com/victorrsk/stream-project)
